@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>fumble.sidearm.yayo.patch</packageId>
+  <name>fumble.sidearm.yayo.patch</name>
+  <supportedVersions><li>1.2</li></supportedVersions>
+  <author>Fumblesneeze</author>
+  <url>https://github.com/Fumblesneeze/RimworldYayoSidearmPatch</url>
+  <description>
+Put Description here.
+
+https://github.com/Fumblesneeze/RimworldYayoSidearmPatch
+  </description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+</ModMetaData>

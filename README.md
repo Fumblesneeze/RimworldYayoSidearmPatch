@@ -1,2 +1,5 @@
-# RimworldYayoSidearmPatch
-New Rimworld mod created using ROMM Mod Creator.
+### fumble.sidearm.yayo.patch ###
+
+Requires HugsLib.
+
+Enter your description here.

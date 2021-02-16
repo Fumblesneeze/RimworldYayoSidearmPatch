@@ -1,0 +1,24 @@
+{
+    "packageId": "fumble.sidearm.yayo.patch",
+    "name": "fumble.sidearm.yayo.patch",
+    "version": "0.0.1",
+    "supportedVersions":[ "1.2.0" ],
+    "authors": "Fumblesneeze",
+    "description": "",
+    "preview": "",
+    "homePage": "https://github.com/Fumblesneeze/RimworldYayoSidearmPatch",
+    "category": "Content",
+    "source": {
+    },
+    "relationships": {
+      "requires": [
+        "brrainz.harmony"
+      ],
+      "after": [
+        "brrainz.harmony"
+      ]
+    },
+    "support": "",
+    "created": "2021-02-16T03:18:43.9148904+01:00",
+    "changeLog": "Initial Version"
+}
